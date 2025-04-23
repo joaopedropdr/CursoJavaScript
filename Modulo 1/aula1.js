@@ -31,6 +31,7 @@ function returnHi() {
 let i = returnHi()
 console.log(i)
 console.log(returnHi())
+
 // Armazenar o valor em uma constante
 const k = returnHi()
 console.log(k) 
